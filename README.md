@@ -1,7 +1,7 @@
 # CURD-API
 
 
-<a href = "https://www.youtube.com/watch?v=fZPgBnL2x-Q"> Link To Tutorial </a>
+<a href = "https://www.youtube.com/watch?v=_7UQPve99r4"> Link To Tutorial </a>
 <br>
 
 Date:-29/09/2024 
